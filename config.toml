@@ -1,0 +1,54 @@
+baseURL = "http://jimmyroland.com/"
+languageCode = "en-us"
+title = "Jimmy Roland"
+theme = "hugo-initio"
+
+[params]
+    name = "Jimmy Roland"
+    description = "Software Engineer"
+    email = "jimmylroland@gmail.com"
+    showSubheader = true
+    showServices = true
+    #showRecentWorks = true
+    showDownload = true
+    #showClients = true
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+    DateForm = "January 2, 2006"
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/includejimmy"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/jimmyroland"
+    icon = "fa-linkedin-square"
+    footer = true
+    sharethis = true 
+    network = "linkedin"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/nickname"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
