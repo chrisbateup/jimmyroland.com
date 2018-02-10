@@ -6,9 +6,8 @@ From depression to fit. I learned how making myself better physically and mental
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My fitness journey was long and earned. It is not about looking the best but it is about feeling the best. Something as easy as increasing your heart rate 30 mins a day can do wonders to elevate your mood levels.
 
-|Table | column|
-|------|:-------:|
-|row1  | row1b |
-|row2  | row2b |
+Allow me to keep you on track and hold you responsible for your fitness goals.
+
+More to come.

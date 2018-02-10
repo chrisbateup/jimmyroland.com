@@ -21,6 +21,8 @@ This service is for people who want a website that is primarily used for display
 
 The software used to create websites has a number of different themes that are [available to view as demos](https://themes.gohugo.io/) and can be customized to fit your needs. Before anywork is started, pick a theme and let me know any customizations that you would like me to make.
 
+Do to the nature of a static website, updates are done manually by me and will be completed in a timely manner but not instantly.
+
 Make subdomains (subdomain.example.com) that point to your other profiles.
 
 ## Start the conversation
