@@ -23,7 +23,7 @@ The software used to create websites has a number of different themes that are [
 
 Do to the nature of a static website, updates are done manually by me and will be completed in a timely manner but not instantly.
 
-Make subdomains (subdomain.example.com) that point to your other profiles.
+Make subdomains (subdomain.example.com) that point to your other profiles and get traffic data using the popular Google Analytics.
 
 ## Start the conversation
 [Fill out this form](https://goo.gl/forms/7dfK0CXto9na6q1h1) and lets get the ball rolling. We can discuss expectations and what you want out of this service.

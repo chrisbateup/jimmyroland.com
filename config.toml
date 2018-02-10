@@ -19,6 +19,9 @@ theme = "hugo-initio"
 
     DateForm = "January 2, 2006"
 
+[params.google.analytics]
+    trackerID = "UA-113898347-1"
+
 [[menu.main]]
     name = "home"
     url = "/"
