@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jimmyroland.com/about/</loc>
+    <loc>https://jimmyroland.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://jimmyroland.com/categories/</loc>
+    <loc>https://jimmyroland.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jimmyroland.com/service/websitedesign/</loc>
+    <loc>https://jimmyroland.com/service/websitedesign/</loc>
   </url>
   
   <url>
-    <loc>http://jimmyroland.com/service/fitnessconsult/</loc>
+    <loc>https://jimmyroland.com/service/fitnessconsult/</loc>
   </url>
   
   <url>
-    <loc>http://jimmyroland.com/</loc>
+    <loc>https://jimmyroland.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jimmyroland.com/service/</loc>
+    <loc>https://jimmyroland.com/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jimmyroland.com/tags/</loc>
+    <loc>https://jimmyroland.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jimmyroland.com/service/techconsult/</loc>
+    <loc>https://jimmyroland.com/service/techconsult/</loc>
   </url>
   
 </urlset>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Jimmy Roland</title>
-    <link>http://jimmyroland.com/service/</link>
+    <link>https://jimmyroland.com/service/</link>
     <description>Recent content in Services on Jimmy Roland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://jimmyroland.com/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimmyroland.com/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Custom website design</title>
-      <link>http://jimmyroland.com/service/websitedesign/</link>
+      <link>https://jimmyroland.com/service/websitedesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jimmyroland.com/service/websitedesign/</guid>
+      <guid>https://jimmyroland.com/service/websitedesign/</guid>
       <description>&lt;p&gt;Have a small business? Represent your business online and have people find you.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Fitness Consultations</title>
-      <link>http://jimmyroland.com/service/fitnessconsult/</link>
+      <link>https://jimmyroland.com/service/fitnessconsult/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jimmyroland.com/service/fitnessconsult/</guid>
+      <guid>https://jimmyroland.com/service/fitnessconsult/</guid>
       <description>&lt;p&gt;From depression to fit. I learned how making myself better physically and mentally could help propel my wellbeing. Also, stop following low carb diets and learn how to eat like a human!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>Technology Consultations</title>
-      <link>http://jimmyroland.com/service/techconsult/</link>
+      <link>https://jimmyroland.com/service/techconsult/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jimmyroland.com/service/techconsult/</guid>
+      <guid>https://jimmyroland.com/service/techconsult/</guid>
       <description>&lt;p&gt;Do you have an idea you want to plan out? With my 4+ years experience and enthusiasm in current technology, I can help you get on the right track to make your idea come to life.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

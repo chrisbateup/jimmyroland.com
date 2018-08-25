@@ -1,4 +1,4 @@
-baseURL = "http://jimmyroland.com/"
+baseURL = "https://jimmyroland.com/"
 languageCode = "en-us"
 title = "Jimmy Roland"
 theme = "hugo-initio"
@@ -25,7 +25,12 @@ theme = "hugo-initio"
 [[menu.main]]
     name = "home"
     url = "/"
-    weight = 1
+    weight = 5
+
+[[menu.main]]
+  name = "blog"
+  url = "https://blog.jimmyroland.com"
+  weight = 1
 
 [[params.social]]
 	title = "twitter"
@@ -43,7 +48,7 @@ theme = "hugo-initio"
     network = "linkedin"
 [[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/rukamir"
     icon = "fa-github"
     footer = true
     sharethis = false
