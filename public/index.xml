@@ -11,14 +11,22 @@
     
     
     <item>
+      <title>Projects</title>
+      <link>https://jimmyroland.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimmyroland.com/projects/</guid>
+      <description>ALL ideas on this page where engineered, developed, user experience designed, deployed, and managed by me alone. Nin.Codes This idea was a solution to a problem Nintendo gave to its loyal fans. The Nintendo platform does not have traditional user names and instead use a 12 digit unique code you must share to connect with friends. My web app allows users to create a custom short link they can give to their friends that easily displays their 12 digit Nintendo Friend Code.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://jimmyroland.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jimmyroland.com/about/</guid>
       <description>More information about me and what I do to come!
-Interests From Tech to fitness.
-Career Received a BS in Game and Simulation programming at DeVry University and now work as a full stack software engineer at a Fourtune 100 company working on the latest web technologies.</description>
+Jimmy My education came from DeVry University with a BS in Gaming and Simulation Programming. This experience focused on understanding real-time rendering and really helped me grasp the concepts of optimized coding practices. My motivation comes from my desire to never stop learning. Every day I dabble in topics from cars to cooking to technology to finance. Everyday is an opportunity to improve your own self-worth.</description>
     </item>
     
     <item>
