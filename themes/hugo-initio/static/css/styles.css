@@ -22,6 +22,7 @@ body {
 
 **********************************************************************/
 .navbar {
+  position: absolute;
   border-width: 1px 0;
   -webkit-border-radius: 0;
   -webkit-background-clip: padding-box;
@@ -227,6 +228,9 @@ a:hover {
 
 
 **********************************************************************/
+#header {
+  padding-bottom: 70px;
+}
 #head {
   background: #f4f4f4 url(../images/banner_img.jpg) top center;
   background-size: cover;
